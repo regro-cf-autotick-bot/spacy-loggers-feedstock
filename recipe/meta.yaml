@@ -1,6 +1,6 @@
 {% set name = "spacy-loggers" %}
 {% set modulename = "spacy_loggers" %}
-{% set version = "1.0.0" %}
+{% set version = "1.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 8415bda3d376fc2ce23910c28fb86fbd6ab3349804aaa525f78e8b533b69a299
+  sha256: 17d0e249b2e6c6546c49fc6561a0a685f91a8edbf24a5b2b7759ead443c74654
 
 build:
   noarch: python
