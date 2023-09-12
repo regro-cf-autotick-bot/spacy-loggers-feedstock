@@ -1,11 +1,11 @@
-About spacy-loggers
-===================
+About spacy-loggers-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/spacy-loggers-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/explosion/spacy-loggers
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/spacy-loggers-feedstock/blob/main/LICENSE.txt)
 
 Summary: Alternate loggers for spaCy pipeline training
 
